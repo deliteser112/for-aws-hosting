@@ -1,0 +1,61 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap'); */
+@font-face {
+  font-family: 'CircularStd';
+  font-weight: 400;
+  font-style: normal;
+  src: local('CircularStd'), url('CircularStd-Book.otf') format('opentype');
+}
+@font-face {
+  font-family: 'CircularStd';
+  font-weight: 500;
+  font-style: normal;
+  src: local('CircularStd'), url('CircularStd-Medium.otf') format('opentype');
+}
+@font-face {
+  font-family: 'CircularStd';
+  font-weight: 700;
+  font-style: normal;
+  src: local('CircularStd'), url('CircularStd-Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'PoppinsBlack';
+  font-style: normal;
+  src: local('PoppinsBlack'), url('Poppins-Black.ttf') format('opentype');
+}
+
+@font-face {
+  font-family: 'PoppinsLight';
+  font-style: normal;
+  src: local('PoppinsLight'), url('Poppins-Light.ttf') format('opentype');
+}
+
+@font-face {
+  font-family: 'PoppinsRegular';
+  font-style: normal;
+  src: local('PoppinsRegular'), url('Poppins-Bold.ttf') format('opentype');
+}
+
+@font-face {
+  font-family: 'PoppinsMedium';
+  font-style: normal;
+  src: local('PoppinsMedium'), url('Poppins-Medium.ttf') format('opentype');
+}
+
+@font-face {
+  font-family: 'PoppinsStandard';
+  font-style: normal;
+  src: local('PoppinsStandard'), url('Poppins-Regular.ttf') format('opentype');
+}
+
+@font-face {
+  font-family: 'ManropeLight';
+  font-style: normal;
+  src: local('ManropeLight'), url('Manrope-Light.ttf') format('opentype');
+}
+
+@font-face {
+  font-family: 'ManropeRegular';
+  font-style: normal;
+  src: local('ManropeRegular'), url('Manrope-VariableFont_wght.ttf') format('opentype');
+}
